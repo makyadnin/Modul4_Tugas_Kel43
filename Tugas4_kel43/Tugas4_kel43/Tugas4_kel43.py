@@ -84,7 +84,7 @@ while loop:
 			
 		else :
 			os.system('cls')
-			print("Kode penerbangan tidak ada dalam daftar")
+			print("Kode penerbangan anda tidak ada dalam daftar")
 			
 			
 	elif ((tujuan) == 2):
@@ -124,7 +124,7 @@ while loop:
 			
 		else :
 			os.system('cls')
-			print("Kode penerbangan tidak ada dalam daftar")
+			print("Kode penerbangan anda tidak ada dalam daftar")
 			
 			
 			
@@ -165,7 +165,7 @@ while loop:
 			
 		else :
 			os.system('cls')
-			print("Kode penerbangan tidak ada dalam daftar")
+			print("Kode penerbangan anda tidak ada dalam daftar")
 			
 			
 			
@@ -208,9 +208,9 @@ while loop:
 			
 		else :
 			os.system('cls')
-			print("Kode penerbangan tidak ada dalam daftar")
+			print("Kode penerbangan anda tidak ada dalam daftar")
 			
 			
 	elif ((tujuan) == 5):
-		print("Terima Kasih Telah Menggunakan Layanan Kami")
+		print("Terima Kasih Anda Telah Menggunakan Layanan Kami")
 		break
